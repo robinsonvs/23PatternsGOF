@@ -13,19 +13,52 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Xpay.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/severo/patterns/adapterpattern/xpay/Xpay.java">
+        <entry file="file://$PROJECT_DIR$/src/com/severo/pattern/adapterpattern/xpay/Xpay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            <state relative-caret-position="30">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="XpayImpl.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/severo/patterns/adapterpattern/xpay/XpayImpl.java">
+      <file leaf-file-name="XpayImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/severo/pattern/adapterpattern/site/XpayImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PayD.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/severo/pattern/adapterpattern/payd/PayD.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XpayToPayDAdapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/severo/pattern/adapterpattern/site/XpayToPayDAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RunAdapterExample.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/severo/pattern/adapterpattern/site/RunAdapterExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -35,8 +68,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -47,6 +80,13 @@
         <option value="$PROJECT_DIR$/src/Xpay.java" />
         <option value="$PROJECT_DIR$/src/com/severo/patterns/adapterpattern/xpay/Xpay.java" />
         <option value="$PROJECT_DIR$/src/com/severo/patterns/adapterpattern/xpay/XpayImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/severo/patterns/adapterpattern/XpayImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/severo/patterns/adapterpattern/PaydD.java" />
+        <option value="$PROJECT_DIR$/src/com/severo/pattern/adapterpattern/payd/PaydD.java" />
+        <option value="$PROJECT_DIR$/src/com/severo/pattern/adapterpattern/site/XpayImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/severo/pattern/adapterpattern/payd/PayD.java" />
+        <option value="$PROJECT_DIR$/src/com/severo/pattern/adapterpattern/site/XpayToPayDAdapter.java" />
+        <option value="$PROJECT_DIR$/src/com/severo/pattern/adapterpattern/site/RunAdapterExample.java" />
       </list>
     </option>
   </component>
@@ -77,6 +117,37 @@
               <item name="Adapter" type="b2602c69:ProjectViewProjectNode" />
               <item name="Adapter" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="severo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Adapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="severo" type="462c0819:PsiDirectoryNode" />
+              <item name="adapterpattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Adapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="severo" type="462c0819:PsiDirectoryNode" />
+              <item name="adapterpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="payd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Adapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="severo" type="462c0819:PsiDirectoryNode" />
+              <item name="adapterpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Adapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="severo" type="462c0819:PsiDirectoryNode" />
+              <item name="adapterpattern" type="462c0819:PsiDirectoryNode" />
               <item name="xpay" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -107,6 +178,17 @@
     </option>
   </component>
   <component name="RunManager">
+    <configuration name="RunAdapterExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.severo.pattern.adapterpattern.site.RunAdapterExample" />
+      <module name="Adapter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.severo.pattern.adapterpattern.site.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -148,6 +230,11 @@
       <properties />
       <listeners />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RunAdapterExample" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -178,7 +265,7 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20677966" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.46779662" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3291536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -200,17 +287,44 @@
     <entry file="file://$PROJECT_DIR$/src/package-info.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/severo/patterns/adapterpattern/xpay/Xpay.java">
+    <entry file="file://$PROJECT_DIR$/src/com/severo/pattern/adapterpattern/xpay/Xpay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/severo/patterns/adapterpattern/xpay/XpayImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/com/severo/pattern/adapterpattern/payd/PayD.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/severo/pattern/adapterpattern/site/XpayImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/severo/pattern/adapterpattern/site/XpayToPayDAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/severo/pattern/adapterpattern/site/RunAdapterExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

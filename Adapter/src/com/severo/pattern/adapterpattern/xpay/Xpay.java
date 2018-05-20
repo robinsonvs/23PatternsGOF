@@ -1,4 +1,4 @@
-package com.severo.patterns.adapterpattern;
+package com.severo.pattern.adapterpattern.xpay;
 
 public interface Xpay {
 

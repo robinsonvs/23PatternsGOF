@@ -1,4 +1,6 @@
-package com.severo.patterns.adapterpattern;
+package com.severo.pattern.adapterpattern.site;
+
+import com.severo.pattern.adapterpattern.xpay.Xpay;
 
 public class XpayImpl implements Xpay {
 
@@ -10,13 +12,14 @@ public class XpayImpl implements Xpay {
     private Double amount;
 
 
-    public String getCreditCardNo() {
-        return creditCardNo;
-    }
-
     @Override
     public void setCreditCardNo(String creditCardNo) {
         this.creditCardNo = creditCardNo;
+    }
+
+    @Override
+    public String getCreditCartNo() {
+        return creditCardNo;
     }
 
     @Override
