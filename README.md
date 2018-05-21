@@ -1,6 +1,30 @@
 # 23PatternsGOF
 
--> When to use Adapter Pattern
-• There is an existing class, and its interface does not match the one you need.
-• You want to create a reusable class that cooperates with unrelated or unforeseen classes, that is, classes that don’t necessarily have compatible interfaces.
-• There are several existing subclasses to be use, but it’s impractical to adapt their interface by subclassing every one. An object adapter can adapt the interface of its parent class.
+Creational Patterns
+1. Abstract Factory
+2. Builder
+3. Factory Method
+4. Prototype
+5. Singleton
+
+Structural Patterns
+6. Adapter
+7. Bridge
+8. Composite
+9. Decorator
+10. Façade
+11. Flyweight
+12. Proxy
+
+Behavioral Patterns
+13. Chain of Responsibility
+14. Command
+15. Interpreter
+16. Iterator
+17. Mediator
+18. Memento
+19. Observer
+20. State
+21. Strategy
+22. Template Method
+23. Visitor
