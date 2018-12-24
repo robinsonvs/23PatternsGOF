@@ -1,1 +1,1 @@
-# 23PatternsGOF
+# Study Design Patterns
